@@ -18,7 +18,8 @@ Welcome to BookXpress Online Book Store! This README provides an overview of the
 1. Install the archive file of BookXpress.
 2. Put it in the appropriate location of wampserver.
 3. Start the server.
-4. Run the file.
+4. Import all the database with the phpAdmin.
+6. Run the file.
 
 ## Usage
 1. Visit the website in your browser.
